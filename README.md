@@ -1,6 +1,8 @@
 # bootstrapForNewbs
 
-This is a custom Twitter Bootstrap html and css and js template made for newbie developers.  Click download button located lower right area of your screen.  Once downloaded you can double click index.html and your browser should automatically load the page for you.
+This is a custom Twitter Bootstrap html and css and js template made for newbie developers.  Click download button located lower right area of your screen. -------> 
+<br>
+Once downloaded you can double click index.html and your browser should automatically load the page for you.
 <br>
 Notice the 12 column grid system.  put col classes inside of row (think of rows as containers).  Cols can be anything but must add up to 12.  
 <br>
